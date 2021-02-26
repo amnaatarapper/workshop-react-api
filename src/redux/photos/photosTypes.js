@@ -1,0 +1,3 @@
+const FETCH_PHOTOS = "FETCH_PHOTOS";
+
+export { FETCH_PHOTOS };
